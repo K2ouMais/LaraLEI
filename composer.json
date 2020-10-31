@@ -1,0 +1,30 @@
+{
+    "name": "k2oumais/laralei",
+    "description": "A simple package to generate, validate and search for a LEI.",
+    "keywords": ["laravel", "lei", "Legal Entity Identifier"],
+    "type": "library",
+    "require": {
+        "php": ">=7.3",
+        "ext-bcmath": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joao Alves",
+            "email": "joao.bastos.alves@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "K2ouMais\\LaraLEI\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "K2ouMais\\LaraLEI\\LEIServiceProvider"
+            ]
+        }
+    }
+}
