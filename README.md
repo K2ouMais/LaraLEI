@@ -9,7 +9,7 @@ A simple package to generate, validate and search for a LEI (Legal Entity Identi
 ### Install
 
 ```bash
-composer install k2oumais/laralei
+composer require k2oumais/laralei
 ```
 
 ### Configuration
