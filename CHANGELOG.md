@@ -1,0 +1,3 @@
+- Added a LEI generator
+- Added a LEI validator
+- Added a LEI search
