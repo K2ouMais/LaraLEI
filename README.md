@@ -37,3 +37,7 @@ $lei->validate("INR2EJN1ERAN0W5ZP974"); // bool
 $lei->search("INR2EJN1ERAN0W5ZP974"); // json
 ```
 
+### Requirements
+
+- PHP 7.*
+- Laravel 7.*
