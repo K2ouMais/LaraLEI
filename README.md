@@ -1,3 +1,5 @@
+<img src="https://banners.beyondco.de/LaraLEI.png?theme=light&packageName=k2oumais%2Flaralei&pattern=architect&style=style_1&description=A+simple+package+to+generate%2C+validate+and+search+for+a+LEI+%28Legal+Entity+Identifier%29.&md=1&fontSize=100px&images=calculator" alt="k2oumais/laralei">
+
 # LaraLEI
 
 A simple package to generate, validate and search for a LEI (Legal Entity Identifier).
