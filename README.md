@@ -33,10 +33,10 @@ $lei = LEI();
 $lei->generate(); // string
 
 // Validate LEI
-$lei->validate("INR2EJN1ERAN0W5ZP974"); // bool
+$lei->validate('INR2EJN1ERAN0W5ZP974'); // bool
 
 // Search for a LEI
-$lei->search("INR2EJN1ERAN0W5ZP974"); // json
+$lei->search(['INR2EJN1ERAN0W5ZP974', 'HWUPKR0MPOU8FGXBT394']); // json
 ```
 
 ### Requirements
